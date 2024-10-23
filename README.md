@@ -1,1 +1,1 @@
-# Java-Certified-course
+# Java Certified course
